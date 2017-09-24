@@ -1,1 +1,1 @@
-# php-proxy-network-example
+#Official GeoSurf proxy network API integration
