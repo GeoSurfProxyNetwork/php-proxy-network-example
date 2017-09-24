@@ -1,6 +1,6 @@
 PHP. file_get_contents
 // PHP file_get_contents proxy example
-// http://www.geosurf.com/resources/residential-ips-integration-guide
+// https://www.geosurf.com/resources/residential-ips-integration-guide
 
 // Our gateway’s hosthname + port, check your dashboard for full gateways list
 $gs_proxy_addr = “gw1.geosurf.io:8081”;
