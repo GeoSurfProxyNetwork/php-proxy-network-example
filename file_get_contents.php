@@ -18,3 +18,4 @@ $proxy_context_array = array(
 $proxy_context = stream_context_create($proxy_context_array);
 
 // Use context stream with file_get_contents
+$data = file_get_contents($url, FALSE, $context);
